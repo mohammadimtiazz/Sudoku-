@@ -6,6 +6,7 @@ this code only presents the part where it can tell whether a given sudoku matrix
 It varify the funciton based on the 1 to 9 number combination row wise, col wise and 3x3 block wise
 
 Example:
+
 3 1 6 5 7 8 4 9 2
 
 5 2 9 1 3 4 7 6 8
@@ -34,6 +35,7 @@ If incase the input matrix is already solved then it will trigger the 2nd part o
 
 
 As example:
+
 3 0 6 5 0 8 4 0 0
 
 5 2 0 0 0 0 0 0 0
